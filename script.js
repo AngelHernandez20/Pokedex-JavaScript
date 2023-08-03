@@ -22,4 +22,4 @@ async function obtenerPokemonAleatorio() {
   }
 };
 
-//setInterval(obtenerPokemonAleatorio, 30000);
+setInterval(obtenerPokemonAleatorio, 30000);
